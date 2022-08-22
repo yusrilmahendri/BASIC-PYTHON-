@@ -1,0 +1,8 @@
+# OPERASI YANG DAPAT DILAKUKAN DENGAN PENYINGKATAN 
+# INI ADALAH ASSIGMENT 
+a = 5 
+a += 1
+a -= 1
+a *= 1
+a /= 1
+print(a)
